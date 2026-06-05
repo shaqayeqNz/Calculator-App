@@ -25,7 +25,7 @@ A simple calculator application built with HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Calculator Screenshot](./assets/calculator.png)
+![Calculator Screenshot]("C:\Users\shaqayeq\Desktop\calculator-js\assets\calculator.png")
 
 ## Project Structure
 
